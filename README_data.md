@@ -144,7 +144,7 @@ These modes use an OFDM modem with powerful LDPC codes and are designed for send
 | DATAC0 | 500 | 291 | 14 | (256,128) | 0.44 | 70/100 at 0dB | Reverse link ACK packets |
 | DATAC1 | 1700 | 980 | 510 | (8192,4096) | 4.18 | 92/100 at 5dB | Forward link data (medium SNR) |
 | DATAC3 | 500 | 321 | 126 | (2048,1024) | 3.19 | 74/100 at 0dB | Forward link data (low SNR) |
-| DATAC4 | 250 | 87 | 56 | (1472,448) | 5.17 | 90/100 at -4dB | Forward link data (low SNR) |
+| DATAC4 | 250 | 87 | 54 | (1472,448) | 5.17 | 90/100 at -4dB | Forward link data (low SNR) |
 | DATAC13 | 200 | 64 | 14 | (384,128) | 2.0 | 90/100 at -4dB | Reverse link ACK packets (low SNR) |
 | DATAC14 | 250 | 58 | 3 | (112,56) | 0.69 | 90/100 at -2dB | Reverse link ACK packets (low SNR) |
 
